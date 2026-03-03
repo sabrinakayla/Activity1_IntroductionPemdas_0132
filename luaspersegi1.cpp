@@ -17,3 +17,8 @@ void output() {
     cout << "Hasilnya = " << luaspersegi() << endl;
     cout << "Terimakasih";
 }
+
+int main() {
+    input();
+    output();
+}
